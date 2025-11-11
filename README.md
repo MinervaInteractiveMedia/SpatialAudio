@@ -40,4 +40,4 @@ Optional:
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/spatial-audio-snippets.git
+   git clone https://github.com/MinervaInteractiveMedia/SpatialAudio.git
